@@ -1,1 +1,1 @@
-# odin-recipes
+This project covers HTML basics by creating web pages for recipes.
